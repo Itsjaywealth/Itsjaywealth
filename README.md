@@ -17,7 +17,7 @@ I build products that solve real problems for African businesses and consumers. 
 | Project | Description | Links |
 |---------|-------------|-------|
 | **[BizFlow NG](https://github.com/Itsjaywealth/bizflow-ng)** | Smart business management for Nigerian SMEs — invoicing, HR, payroll, and billing | [Repo](https://github.com/Itsjaywealth/bizflow-ng) · [Site](https://bizflowng.com) |
-| **[TopFlowNG](https://github.com/Itsjaywealth/topflowng)** | Nigeria's VTU platform — airtime, data, bills, betting wallets | [Repo](https://github.com/Itsjaywealth/topflowng) · [Site](https://topflowng.com) |
+| **[TopFlowNG](https://github.com/Itsjaywealth/topflowng)** | Nigeria's VTU platform — airtime, data, and bill payments | [Repo](https://github.com/Itsjaywealth/topflowng) · [Site](https://topflowng.com) |
 | **[Latitude Wire](https://github.com/Itsjaywealth/latitudewire.com)** | News & analysis platform covering global events | [Repo](https://github.com/Itsjaywealth/latitudewire.com) |
 | **[BrandVerse Ventures](https://github.com/Itsjaywealth/brandverseventures.com)** | Blockchain & brand management consulting | [Repo](https://github.com/Itsjaywealth/brandverseventures.com) · [Site](https://brandverseventures.com) |
 
