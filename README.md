@@ -17,6 +17,7 @@
   [![Website](https://img.shields.io/badge/🌐_josephegbedi.com-0E2235?style=for-the-badge)](https://josephegbedi.com)
   [![Twitter](https://img.shields.io/badge/Twitter-@its__jaywealth-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/its_jaywealth)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Joseph_Egbedi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/josephegbedi)
+    [![Instagram](https://img.shields.io/badge/Instagram-@its__jaywealth-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/its_jaywealth)
   
   </div>
   
