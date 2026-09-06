@@ -1,108 +1,44 @@
 # Joseph Egbedi
 
-**Founder & CEO @ Brandverse Ventures** · Blockchain Consultant · Full-Stack Developer
+**Founder & CEO, BrandVerse Ventures · SaaS Product Builder · Full-Stack Developer · Blockchain Consultant**
 
-[![Twitter](https://img.shields.io/badge/Twitter-@Itsjaywealth-1DA1F2)](https://twitter.com/Itsjaywealth)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-josephegbedi-0A66C2)](https://linkedin.com/in/josephegbedi)
-[![Email](https://img.shields.io/badge/Email-josephegbedi@gmail.com-red)](mailto:josephegbedi@gmail.com)
+I build practical digital products and infrastructure for African businesses and consumers, combining product strategy, software engineering, payments, automation, and brand development.
 
-<div align="center">
-  
-  # Hey, I'm Jay 👋
-  
-  **Founder & CEO · BrandVerse Ventures · Lagos, Nigeria**
-  
-  Building SaaS products, digital infrastructure, and brands for the Nigerian and African market.
-  
-  [![Website](https://img.shields.io/badge/🌐_josephegbedi.com-0E2235?style=for-the-badge)](https://josephegbedi.com)
-  [![Twitter](https://img.shields.io/badge/Twitter-@its__jaywealth-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/its_jaywealth)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Joseph_Egbedi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/josephegbedi)
-    [![Instagram](https://img.shields.io/badge/Instagram-@its__jaywealth-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/its_jaywealth)
-  
-  </div>
-  
-  ---
-  
-  ## 🚀 What I'm Building
-  
-  | Product | Description | Stack | Status |
-  |---|---|---|---|
-  | **[BizFlow NG](https://github.com/Itsjaywealth/bizflow-ng)** | Smart business management for Nigerian SMEs — invoicing, CRM, payroll & HR | React · Supabase · Paystack | 🟢 Live |
-  | **[TopFlowNG](https://github.com/Itsjaywealth/topflowng)** | VTU & bill payments — airtime, data, electricity, cable TV & more | Node.js · PostgreSQL · Paystack | 🟢 Live |
-  | **[LatitudeWire](https://github.com/Itsjaywealth)** | Fintech infrastructure layer | — | 🔨 Building |
-  | **[BrandVerse](https://github.com/Itsjaywealth)** | Agency delivering branding, SaaS dev & blockchain consulting for clients | — | 🟢 Active |
-  
-  ---
-  
-  ## 🛠️ Tech I Work With
-  
-  ```
-Frontend    →  React · Next.js · Tailwind CSS
-Backend     →  Node.js · Supabase · PostgreSQL · Railway
-Payments    →  Paystack · Stripe
-Blockchain  →  Smart Contracts · Web3 Consulting
-DevOps      →  Vercel · Railway · Sentry · UptimeRobot
-Email       →  Resend
-```
+[Website](https://josephegbedi.com) · [LinkedIn](https://www.linkedin.com/in/joseph-egbedi/) · [X](https://x.com/its_jaywealth) · [Email](mailto:josephegbedi@gmail.com)
+
+## Selected projects
+
+| Project | What it does | Product |
+|---|---|---|
+| **BrandVerse Ventures** | Digital product, branding, software development, automation, and blockchain consulting for businesses. | [brandverseventures.com](https://brandverseventures.com) |
+| **TopFlowNG** | Nigerian digital-services platform for airtime, data, electricity, cable TV, bulk services, receipts, and account-based payments. | [topflowng.com](https://topflowng.com) |
+| **BizFlow NG** | Business operations software for Nigerian SMEs, covering invoicing, clients, products and services, expenses, teams, payroll, and reporting. | [bizflowng.com](https://bizflowng.com) |
+| **Latitude Wire** | Independent news and analysis platform covering global affairs, Africa, business, technology, and emerging markets. | [latitudewire.com](https://latitudewire.com) |
+
+The application repositories are privately maintained. Public product links above provide the current live experience.
+
+## What I work with
+
+- **Product engineering:** React, Next.js, TypeScript, Node.js
+- **Data and infrastructure:** PostgreSQL, Supabase, Railway, Vercel
+- **Payments and communications:** Paystack, Resend
+- **Quality and operations:** Playwright, automated testing, CI/CD, monitoring
+- **Consulting:** product strategy, digital transformation, branding, blockchain and Web3
+
+## BrandVerse Ventures
+
+Founded in Lagos in 2021, BrandVerse Ventures helps organisations move from concept to dependable digital execution through:
+
+- SaaS and custom software development
+- Web and mobile product delivery
+- Brand identity and digital strategy
+- Workflow automation and systems integration
+- Blockchain consultation and implementation
+
+## Current focus
+
+Building reliable, accessible products that improve how African businesses operate, accept payments, serve customers, and grow online.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  ![Jay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Itsjaywealth&show_icons=true&theme=dark&hide_border=true&bg_color=0E2235&title_color=F5A623&icon_color=1A7A4A&text_color=ffffff)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Itsjaywealth&layout=compact&theme=dark&hide_border=true&bg_color=0E2235&title_color=F5A623&text_color=ffffff)
-  
-  </div>
-  
-  ---
-  
-  ## 💼 About BrandVerse Ventures
-  
-  Lagos-based digital agency founded 2021 — we help businesses build and scale through:
-  
-  - ⚡ SaaS product development
-  - - 🎨 Brand identity & strategy
-    - - 🔗 Blockchain & Web3 consulting
-      - - 📱 Mobile & web app development
-        -
-        **ForbesBLK member** | **10+ years in marketing & branding**
-
-        ---
-
-        <div align="center">
-          
-          *Building the digital infrastructure for Africa's next generation of businesses.*
-
-        📧 josephegbedi@gmail.com
-
-        </div>---
-
-### 👨‍💻 About
-
-I build products that solve real problems for African businesses and consumers. From VTU platforms powering millions of transactions to business management tools for SMEs, I focus on creating technology that drives economic growth.
-
-### 🚀 Projects
-
-| Project | Description | Links |
-|---------|-------------|-------|
-| **[BizFlow NG](https://github.com/Itsjaywealth/bizflow-ng)** | Smart business management for Nigerian SMEs — invoicing, HR, payroll, and billing | [Repo](https://github.com/Itsjaywealth/bizflow-ng) · [Site](https://bizflowng.com) |
-| **[TopFlowNG](https://github.com/Itsjaywealth/topflowng)** | Nigeria's VTU platform — airtime, data, and bill payments | [Repo](https://github.com/Itsjaywealth/topflowng) · [Site](https://topflowng.com) |
-| **[Latitude Wire](https://github.com/Itsjaywealth/latitudewire.com)** | News & analysis platform covering global events | [Repo](https://github.com/Itsjaywealth/latitudewire.com) |
-| **[BrandVerse Ventures](https://github.com/Itsjaywealth/brandverseventures.com)** | Blockchain & brand management consulting | [Repo](https://github.com/Itsjaywealth/brandverseventures.com) · [Site](https://brandverseventures.com) |
-
-### 🛠️ Core Competencies
-
-- **Blockchain** — Smart contracts, DeFi, tokenization, Web3 infrastructure
-- **Full-Stack Development** — Next.js, React, Node.js, TypeScript, PostgreSQL, Prisma
-- **Cloud & DevOps** — Railway, AWS, Docker, CI/CD
-- **Payments** — Paystack, Stripe integration
-- **Product Strategy** — System architecture, MVP delivery, scaling
-
-### 📫 Contact
-
-- Website: [josephegbedi.com](https://josephegbedi.com)
-- Email: josephegbedi@gmail.com
-- GitHub: [@Itsjaywealth](https://github.com/Itsjaywealth)
+**Lagos, Nigeria** · [brandverseventures.com](https://brandverseventures.com) · [josephegbedi@gmail.com](mailto:josephegbedi@gmail.com)
