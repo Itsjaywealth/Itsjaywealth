@@ -4,7 +4,7 @@
 
 I build practical digital products and infrastructure for African businesses and consumers, combining product strategy, software engineering, payments, automation, and brand development.
 
-[Website](https://josephegbedi.com) · [LinkedIn](https://www.linkedin.com/in/joseph-egbedi/) · [X](https://x.com/its_jaywealth) · [Email](mailto:josephegbedi@gmail.com)
+[Website](https://josephegbedi.com) · [LinkedIn](https://www.linkedin.com/in/joseph-egbedi/) · [X](https://x.com/its_jaywealth)
 
 ## Selected projects
 
@@ -14,7 +14,6 @@ I build practical digital products and infrastructure for African businesses and
 | **TopFlowNG** | Nigerian digital-services platform for airtime, data, electricity, cable TV, bulk services, receipts, and account-based payments. | [topflowng.com](https://topflowng.com) |
 | **BizFlow NG** | Business operations software for Nigerian SMEs, covering invoicing, clients, products and services, expenses, teams, payroll, and reporting. | [bizflowng.com](https://bizflowng.com) |
 | **Latitude Wire** | Independent news and analysis platform covering global affairs, Africa, business, technology, and emerging markets. | [latitudewire.com](https://latitudewire.com) |
-| **Vlixxo** | Global marketplace platform with listings, auctions, seller storefronts, buyer accounts, commerce workflows, and Shopify merchant integration. | [vlixxo.com](https://vlixxo.com) |
 
 The application repositories are privately maintained. Public product links above provide the current live experience.
 
@@ -43,4 +42,4 @@ Building reliable, accessible products that improve how businesses operate, tran
 
 ---
 
-**Lagos, Nigeria** · [brandverseventures.com](https://brandverseventures.com) · [josephegbedi@gmail.com](mailto:josephegbedi@gmail.com)
+**Lagos, Nigeria** · [brandverseventures.com](https://brandverseventures.com)
