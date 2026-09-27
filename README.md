@@ -13,9 +13,10 @@ I build practical digital products and infrastructure for African businesses and
 | **BrandVerse Ventures** | Digital product, branding, software development, automation, and blockchain consulting for businesses. | [brandverseventures.com](https://brandverseventures.com) |
 | **TopFlowNG** | Nigerian digital-services platform for airtime, data, electricity, cable TV, bulk services, receipts, and account-based payments. | [topflowng.com](https://topflowng.com) |
 | **BizFlow NG** | Business operations software for Nigerian SMEs, covering invoicing, clients, products and services, expenses, teams, payroll, and reporting. | [bizflowng.com](https://bizflowng.com) |
+| **Vlixxo** | Ecommerce storefront and product-discovery platform with a streamlined shopping and checkout experience. | [vlixxo.com](https://www.vlixxo.com) |
 | **Latitude Wire** | Independent news and analysis platform covering global affairs, Africa, business, technology, and emerging markets. | [latitudewire.com](https://latitudewire.com) |
 
-The application repositories are privately maintained. Public product links above provide the current live experience.
+Production application repositories and operational infrastructure are privately maintained unless a project has an explicitly public repository. Public product links above provide the current live experience.
 
 ## What I work with
 
