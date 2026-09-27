@@ -1,45 +1,44 @@
 # Joseph Egbedi
 
-**Founder & CEO, BrandVerse Ventures · SaaS Product Builder · Full-Stack Developer · Blockchain Consultant**
+**Founder, BrandVerse Ventures · Product Builder · Full-Stack Engineer · Automation & AI Systems**
 
-I build practical digital products and infrastructure for African businesses and consumers, combining product strategy, software engineering, payments, automation, and brand development.
+I build and operate practical digital products, commerce systems, automation and business infrastructure. My work spans product strategy, software engineering, payments, AI-enabled workflows, publishing and digital operations.
 
-[Website](https://josephegbedi.com) · [LinkedIn](https://www.linkedin.com/in/joseph-egbedi/) · [X](https://x.com/its_jaywealth)
+[Website](https://josephegbedi.com) · [BrandVerse Ventures](https://brandverseventures.com) · [LinkedIn](https://www.linkedin.com/in/joseph-egbedi/) · [X](https://x.com/its_jaywealth)
 
-## Selected projects
+## BrandVerse ecosystem
 
-| Project | What it does | Product |
+| Product | Focus | Live product |
 |---|---|---|
-| **BrandVerse Ventures** | Digital product, branding, software development, automation, and blockchain consulting for businesses. | [brandverseventures.com](https://brandverseventures.com) |
-| **TopFlowNG** | Nigerian digital-services platform for airtime, data, electricity, cable TV, bulk services, receipts, and account-based payments. | [topflowng.com](https://topflowng.com) |
-| **BizFlow NG** | Business operations software for Nigerian SMEs, covering invoicing, clients, products and services, expenses, teams, payroll, and reporting. | [bizflowng.com](https://bizflowng.com) |
-| **Vlixxo** | Ecommerce storefront and product-discovery platform with a streamlined shopping and checkout experience. | [vlixxo.com](https://www.vlixxo.com) |
-| **Latitude Wire** | Independent news and analysis platform covering global affairs, Africa, business, technology, and emerging markets. | [latitudewire.com](https://latitudewire.com) |
+| **BrandVerse Ventures** | Parent technology company for product strategy, engineering, automation, digital operations and owned ventures. | [brandverseventures.com](https://brandverseventures.com) |
+| **BizFlowNG** | Business operations software for customers, invoicing, expenses, products, teams, payroll and reporting. | [bizflowng.com](https://bizflowng.com) |
+| **TopFlowNG** | Transaction-focused digital-services platform for airtime, data, electricity, cable TV and related service workflows. | [topflowng.com](https://topflowng.com) |
+| **Vlixxo** | Multi-category ecommerce platform spanning catalogue operations, merchandising, discovery, checkout and supplier workflows. | [vlixxo.com](https://www.vlixxo.com) |
+| **LatitudeWire** | Digital publishing platform covering global affairs, Africa, business, technology and emerging markets. | [latitudewire.com](https://latitudewire.com) |
 
-Production application repositories and operational infrastructure are privately maintained unless a project has an explicitly public repository. Public product links above provide the current live experience.
+I also build the private operating systems behind these products: internal workspaces, AI/RAG services, workflow automation, social publishing, monitoring, QA and integration tooling. Those operational repositories and production configurations remain private by design.
 
-## What I work with
+## Engineering & operations
 
-- **Product engineering:** React, Next.js, TypeScript, Node.js
-- **Data and infrastructure:** PostgreSQL, Supabase, MongoDB, Railway, Vercel
-- **Payments and communications:** Paystack, Resend
-- **Automation and integrations:** n8n, Shopify, APIs and event-driven workflows
-- **Quality and operations:** Playwright, automated testing, CI/CD, monitoring
-- **Consulting:** product strategy, digital transformation, branding, blockchain and Web3
+- **Product engineering:** React, Next.js, TypeScript, JavaScript, Node.js
+- **Data:** PostgreSQL, Supabase, MongoDB
+- **Infrastructure:** Railway, Vercel, Cloudflare, GitHub Actions
+- **Commerce & integrations:** Shopify, APIs, webhooks and event-driven workflows
+- **Automation & AI:** n8n, RAG, AI-assisted workflows and internal copilots
+- **Quality:** Playwright, automated testing, CI/CD, monitoring, backups and release verification
+- **Business systems:** payments, CRM, operations, customer workflows and reporting
+
+## Security boundary
+
+Public repositories contain only information and code that is safe to publish. Production secrets, private keys, OAuth tokens, API credentials, database passwords, customer data, private operational logs and deployment configuration are kept outside public Git history.
 
 ## BrandVerse Ventures
 
-Founded in Lagos in 2021, BrandVerse Ventures helps organisations move from concept to dependable digital execution through:
-
-- SaaS and custom software development
-- Web and mobile product delivery
-- Brand identity and digital strategy
-- Workflow automation and systems integration
-- Blockchain consultation and implementation
+BrandVerse Ventures designs, engineers and operates digital systems from strategy through launch and ongoing improvement. The company combines product thinking, software engineering, automation, commerce and digital operations while using its own live products as operating proof.
 
 ## Current focus
 
-Building reliable, accessible products that improve how businesses operate, transact, serve customers, and grow online.
+Building reliable, accessible systems that help businesses operate, transact, serve customers and grow online—and improving the private automation and intelligence layer that supports the BrandVerse ecosystem.
 
 ---
 
