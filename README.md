@@ -6,14 +6,14 @@ I build and operate practical digital products, commerce systems, automation and
 
 [Website](https://josephegbedi.com) · [BrandVerse Ventures](https://brandverseventures.com) · [LinkedIn](https://www.linkedin.com/in/joseph-egbedi/) · [X](https://x.com/its_jaywealth)
 
-## BrandVerse ecosystem
+## Selected projects — BrandVerse ecosystem
 
 | Product | Focus | Live product |
 |---|---|---|
 | **BrandVerse Ventures** | Parent technology company for product strategy, engineering, automation, digital operations and owned ventures. | [brandverseventures.com](https://brandverseventures.com) |
 | **BizFlowNG** | Business operations software for customers, invoicing, expenses, products, teams, payroll and reporting. | [bizflowng.com](https://bizflowng.com) |
 | **TopFlowNG** | Transaction-focused digital-services platform for airtime, data, electricity, cable TV and related service workflows. | [topflowng.com](https://topflowng.com) |
-| **Vlixxo** | Multi-category ecommerce platform spanning catalogue operations, merchandising, discovery, checkout and supplier workflows. | [vlixxo.com](https://www.vlixxo.com) |
+| **Vlixxo** | Ecommerce storefront for catalogue discovery, category browsing, search, cart and checkout. | [vlixxo.com](https://www.vlixxo.com) · [GitHub](https://github.com/Itsjaywealth/vlixxo.com) |
 | **LatitudeWire** | Digital publishing platform covering global affairs, Africa, business, technology and emerging markets. | [latitudewire.com](https://latitudewire.com) |
 
 I also build the private operating systems behind these products: internal workspaces, AI/RAG services, workflow automation, social publishing, monitoring, QA and integration tooling. Those operational repositories and production configurations remain private by design.
