@@ -14,11 +14,11 @@ I work across product strategy, software and digital operations for growing busi
 | **ItsFlowAI** | Flow, an AI assistant for chat, research with sources, writing and document analysis, with actions through n8n and Zapier. Free and paid plans. | [itsflowai.com](https://itsflowai.com) | Next.js, TypeScript, Flutter |
 | **BizFlowNG** | Operations software for small businesses: customers, invoicing, expenses, products, teams, payroll and reports. Web plus a Flutter mobile app. | [bizflowng.com](https://bizflowng.com) | Next.js, TypeScript, PostgreSQL, Prisma, Flutter |
 | **TopFlowNG** | Airtime, data, electricity and cable TV payments for Nigerian customers, with a wallet and reconciled transactions. | [topflowng.com](https://topflowng.com) · [Google Play](https://play.google.com/store/apps/details?id=com.topflowng.app) | Node.js, PostgreSQL, Flutter |
-| **Vlixxo** | Ecommerce storefront covering catalogue discovery, category browsing, search, cart and checkout. | [vlixxo.com](https://www.vlixxo.com) · [overview](https://github.com/Itsjaywealth/vlixxo.com) | Node.js, MongoDB, React |
+| **Vlixxo** | Ecommerce storefront covering catalogue discovery, category browsing, search, cart and checkout. | [vlixxo.com](https://www.vlixxo.com) · [overview](https://github.com/Itsjaywealth/vlixxo.com) | React, Node.js, Express, MongoDB |
 | **LatitudeWire** | Digital publication covering global affairs, Africa, business, technology and emerging markets. | [latitudewire.com](https://latitudewire.com) | WordPress, Algolia, Cloudflare |
-| **DailyFactView** | Ad-supported publishing site for short, well-sourced explainers. | [dailyfactview.com](https://dailyfactview.com) | WordPress, Google AdSense |
+| **DailyFactView** | General-interest digital publication, run as an ad-supported site. | [dailyfactview.com](https://dailyfactview.com) | WordPress, Google AdSense |
 
-The shared layer behind them (CRM, support, finance reporting, a RAG knowledge service, social publishing and n8n workflows) is described in the [BrandVerse ecosystem overview](https://github.com/Itsjaywealth/brandverse-ecosystem). Production code for these products is private. Open-source pieces are pinned below.
+The shared layer behind them (CRM, support, finance reporting, a RAG knowledge service, social publishing and n8n workflows) is described in the [BrandVerse ecosystem overview](https://github.com/Itsjaywealth/brandverse-ecosystem). Production code for these products stays private; the public repositories on this profile are safe to read and reuse.
 
 ## How I build
 
