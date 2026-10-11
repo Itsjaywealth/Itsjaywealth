@@ -1,38 +1,44 @@
 # Joseph Egbedi
 
-Founder of **BrandVerse Ventures Limited**, based in Lagos, Nigeria.
+**Founder, BrandVerse Ventures · Product Builder · Full-Stack Engineer · Automation & AI Systems**
 
-I work across product strategy, software and digital operations for growing businesses. In practice that means shipping and running the products below end to end, from the first spec to payments, support and the automation that keeps them running. BrandVerse also builds AI and automation for other teams: agents, retrieval-augmented (RAG) knowledge assistants, internal copilots and workflow automation on n8n and Zapier.
+I build and operate practical digital products, commerce systems, automation and business infrastructure. My work spans product strategy, software engineering, payments, AI-enabled workflows, publishing and digital operations.
 
-[josephegbedi.com](https://josephegbedi.com) · [brandverseventures.com](https://brandverseventures.com) · [X @its_jaywealth](https://x.com/its_jaywealth) · [LinkedIn](https://www.linkedin.com/in/joseph-egbedi/)
+[Website](https://josephegbedi.com) · [BrandVerse Ventures](https://brandverseventures.com) · [LinkedIn](https://www.linkedin.com/in/joseph-egbedi/) · [X](https://x.com/its_jaywealth)
 
-## Products
+## BrandVerse ecosystem
 
-| Product | What it does | Live | Stack |
-|---|---|---|---|
-| **BrandVerse Ventures** | Parent company. Product studio for strategy, engineering, automation and the ventures listed here. | [brandverseventures.com](https://brandverseventures.com) | JavaScript, Supabase, Vercel, Cloudflare |
-| **ItsFlowAI** | Flow, an AI assistant for chat, research with sources, writing and document analysis, with actions through n8n and Zapier. Free and paid plans. | [itsflowai.com](https://itsflowai.com) | Next.js, TypeScript, Flutter |
-| **BizFlowNG** | Operations software for small businesses: customers, invoicing, expenses, products, teams, payroll and reports. Web plus a Flutter mobile app. | [bizflowng.com](https://bizflowng.com) | Next.js, TypeScript, PostgreSQL, Prisma, Flutter |
-| **TopFlowNG** | Airtime, data, electricity and cable TV payments for Nigerian customers, with a wallet and reconciled transactions. | [topflowng.com](https://topflowng.com) · [Google Play](https://play.google.com/store/apps/details?id=com.topflowng.app) | Node.js, PostgreSQL, Flutter |
-| **Vlixxo** | Ecommerce storefront covering catalogue discovery, category browsing, search, cart and checkout. | [vlixxo.com](https://www.vlixxo.com) · [overview](https://github.com/Itsjaywealth/vlixxo.com) | React, Node.js, Express, MongoDB |
-| **LatitudeWire** | Digital publication covering global affairs, Africa, business, technology and emerging markets. | [latitudewire.com](https://latitudewire.com) | WordPress, Algolia, Cloudflare |
-| **DailyFactView** | General-interest digital publication, run as an ad-supported site. | [dailyfactview.com](https://dailyfactview.com) | WordPress, Google AdSense |
+| Product | Focus | Live product |
+|---|---|---|
+| **BrandVerse Ventures** | Parent technology company for product strategy, engineering, automation, digital operations and owned ventures. | [brandverseventures.com](https://brandverseventures.com) |
+| **BizFlowNG** | Business operations software for customers, invoicing, expenses, products, teams, payroll and reporting. | [bizflowng.com](https://bizflowng.com) |
+| **TopFlowNG** | Transaction-focused digital-services platform for airtime, data, electricity, cable TV and related workflows. | [topflowng.com](https://topflowng.com) |
+| **Vlixxo** | Ecommerce storefront for catalogue discovery, category browsing, search, cart and checkout. | [vlixxo.com](https://www.vlixxo.com) · [GitHub](https://github.com/Itsjaywealth/vlixxo.com) |
+| **LatitudeWire** | Digital publishing platform covering global affairs, Africa, business, technology and emerging markets. | [latitudewire.com](https://latitudewire.com) |
+| **DailyFactView** | Earlier digital publishing project in my product portfolio. | [dailyfactview.com](https://dailyfactview.com) |
 
-The shared layer behind them (CRM, support, finance reporting, a RAG knowledge service, social publishing and n8n workflows) is described in the [BrandVerse ecosystem overview](https://github.com/Itsjaywealth/brandverse-ecosystem). Production code for these products stays private; the public repositories on this profile are safe to read and reuse.
+[Explore the public BrandVerse ecosystem overview](https://github.com/Itsjaywealth/brandverse-ecosystem).
 
-## How I build
+Behind these products I also build private operating systems for CRM, projects, support, finance, HR, recruitment, marketing, sales, knowledge, analytics, AI/RAG, integrations, security, social publishing, monitoring, backups and QA. Operational repositories and production configuration remain private by design.
 
-- **Product and web:** TypeScript, JavaScript, React, Next.js, Node.js, Flutter
-- **Data:** PostgreSQL, Supabase, Prisma, MongoDB
-- **Payments and commerce:** Paystack, Stripe, Shopify, webhooks and reconciliation
-- **AI and automation:** RAG pipelines, tool-using agents, n8n, Zapier, event-driven integrations
+## Engineering & operations
+
+- **Product engineering:** React, Next.js, TypeScript, JavaScript, Node.js
+- **Data:** PostgreSQL, Supabase, MongoDB
 - **Infrastructure:** Railway, Vercel, Cloudflare, GitHub Actions
-- **Quality:** Playwright and contract tests in CI, secret scanning, monitoring, backups with restore checks
+- **Commerce & integrations:** Shopify, APIs, webhooks and event-driven workflows
+- **Automation & AI:** n8n, RAG, AI-assisted workflows and internal copilots
+- **Quality:** Playwright, automated testing, CI/CD, monitoring, backups and release verification
+- **Business systems:** payments, CRM, operations, customer workflows and reporting
 
-Secrets, customer data and production configuration never go into Git. Public repositories are scanned across their full history before they are published.
+## Security boundary
 
-## Work with BrandVerse
+Public repositories contain only information and code that is safe to publish. Production secrets, private keys, OAuth tokens, API credentials, database passwords, customer data, private operational logs and deployment configuration are kept outside public Git history.
 
-For product builds, automation or AI projects, start at [brandverseventures.com](https://brandverseventures.com) or reach me through [josephegbedi.com](https://josephegbedi.com).
+## Current focus
 
-Lagos, Nigeria
+Building reliable, accessible systems that help businesses operate, transact, serve customers and grow online—and improving the private automation and intelligence layer that supports the BrandVerse ecosystem.
+
+---
+
+**Lagos, Nigeria** · [brandverseventures.com](https://brandverseventures.com)
