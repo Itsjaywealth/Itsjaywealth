@@ -24,10 +24,10 @@ Behind these products I also build private operating systems for CRM, projects, 
 ## Engineering & operations
 
 - **Product engineering:** React, Next.js, TypeScript, JavaScript, Node.js
-- **Data:** PostgreSQL, Supabase, MongoDB
-- **Infrastructure:** Railway, Vercel, Cloudflare, GitHub Actions
-- **Commerce & integrations:** Shopify, APIs, webhooks and event-driven workflows
-- **Automation & AI:** n8n, RAG, AI-assisted workflows and internal copilots
+- **Data:** relational and document databases, caching and search
+- **Infrastructure:** managed cloud hosting, edge delivery, CI/CD
+- **Commerce & integrations:** commerce platforms, APIs, webhooks and event-driven workflows
+- **Automation & AI:** workflow automation, RAG, AI-assisted workflows and internal copilots
 - **Quality:** Playwright, automated testing, CI/CD, monitoring, backups and release verification
 - **Business systems:** payments, CRM, operations, customer workflows and reporting
 
