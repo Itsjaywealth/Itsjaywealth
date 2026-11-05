@@ -15,7 +15,6 @@ I build and operate practical digital products, commerce systems, automation and
 | **TopFlowNG** | Transaction-focused digital-services platform for airtime, data, electricity, cable TV and related workflows. | [topflowng.com](https://topflowng.com) |
 | **Vlixxo** | Ecommerce storefront for catalogue discovery, category browsing, search, cart and checkout. | [vlixxo.com](https://www.vlixxo.com) · [GitHub](https://github.com/Itsjaywealth/vlixxo.com) |
 | **LatitudeWire** | Digital publishing platform covering global affairs, Africa, business, technology and emerging markets. | [latitudewire.com](https://latitudewire.com) |
-| **DailyFactView** | Earlier digital publishing project in my product portfolio. | [dailyfactview.com](https://dailyfactview.com) |
 
 [Explore the public BrandVerse ecosystem overview](https://github.com/Itsjaywealth/brandverse-ecosystem).
 
